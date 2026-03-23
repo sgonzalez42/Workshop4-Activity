@@ -15,5 +15,9 @@ changeTextBtn.addEventListener("click", () => {
 
 colorBtn.addEventListener("click", () => {
     colorBtn.style.color = "red";
+});
+  
+greetBtn.addEventListener("click", () => {
+    greetBtn.style.backgroundColor = "blue";
   });
 
